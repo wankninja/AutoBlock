@@ -2,7 +2,6 @@
 branches:
 - master
 projects:
-  AutoXP:
+  AutoBlock:
     path: ""
-    icon: meta/AutoXP.png
 ...
